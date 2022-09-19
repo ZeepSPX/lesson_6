@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+
+.container{
+	font-family: "Lato";
+	font-weight: 400;
+	font-size: 16px;
+	max-width: 810px;
+	margin: 0px auto;
+}
+
+.title{
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 1.5;
+	margin-bottom: 92px;
+}
+
+.img{
+	margin-bottom: 60px;
+}
+
+.text-first{
+	margin-bottom: 24px;
+}
+
+.text-bold{
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 1.6;
+}
+
+.text-second{
+	margin-bottom: 48px;
+}
+
+.text-center{
+	line-height: 1.6;
+	font-size: 16px;
+	margin-bottom: 5px;
+}
+
+.text-center-2{
+	line-height: 1.6;
+	font-size: 16px
+}
+
+.text-three	{
+	margin-bottom: 48px;
+}
+
+.text-quote{
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 1.6;
+	padding-left: 58px;
+}
+
+.text-four{
+	margin-bottom: 24px;
+}
+
+.text-regular{
+	font-size: 16px;
+	line-height: 1.6;
+}
+
+.list{
+	font-size: 16px;
+	margin-left: 16px;
+	margin-bottom: 24px;
+}
+
+.list-item{
+	padding: 4px;
+}
+
+.text-end{
+	font-size: 16px;
+	line-height: 1.6;
+}
+
+.task-1 {
+	padding: 30px;
+	margin: 30px;
+	min-width: 550px;
+	max-height: 70px;
+	background-color: coral;
+	overflow: scroll;
+}
+
+.task-2 {
+	background-color: royalblue;
+	max-width: 450px;
+	min-height: 15px;
+	padding: 30px;
+	margin: 30px;
+}
+
+.task-3 {
+	padding: 30px;
+	margin: 30px;
+	border: 30px solid rgba(0, 72, 255, 0.459);
+}
+
+.task-4 {
+	padding: 30px;
+	margin: 30px;
+	border-top: 35px dashed rebeccapurple;
+	border-right: 35px dotted rgba(0, 72, 255, 0.459);
+	border-bottom: 35px double green;
+	border-left: 35px solid coral;
+	margin-bottom: 30px;
+}
+
+.circular {
+	width: 100px;
+	height: 100px;
+	background-color: aquamarine;
+	border-radius: 50%;
+	overflow: hidden;
+	box-shadow: 25px 8px 6px 1px;
+	margin: 0px auto;
+}
+
+.task-5 {
+	margin-top: 45px;
+}
+
+.task-5 p {
+	opacity: 0.3;
+	padding: 45px;
+}
