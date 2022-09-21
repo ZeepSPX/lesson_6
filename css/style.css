@@ -9,15 +9,19 @@
 	margin: 0px auto;
 }
 
+header{
+	margin-bottom: 92px;
+}
+
 .title{
 	font-weight: 900;
 	font-size: 46px;
 	line-height: 1.5;
-	margin-bottom: 92px;
 }
 
 .img{
 	margin-bottom: 60px;
+	max-width: 100%;
 }
 
 .text-first{
